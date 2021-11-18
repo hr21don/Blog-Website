@@ -1,0 +1,19 @@
+<%- include("partials/header"); -%>
+
+
+<h1><%=title%></h1>
+<p><%=content%></p>
+
+<div class="btn-hold">
+  <form class="btn-hold" action="/delete" method="post">
+    <button class="btn btn-danger" type="submit" name="deletePost" value="<%=title%>">Delete Post</button>
+  </form>
+  <div class = "btn container-fluid">
+  <button class="btn btn-light" type="submit" name="button" onclick="location.href = '/';">Return Home</button>
+  </div>
+</div>
+
+
+
+
+<%- include("partials/footer"); -%>

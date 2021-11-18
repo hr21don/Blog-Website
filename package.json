@@ -1,0 +1,23 @@
+{
+  "name": "ejs-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "HR",
+  "license": "ISC",
+  "engines": {
+  "node": "14.18.1"
+   },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^10.0.0",
+    "ejs": "^2.7.4",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.0.13"
+  },
+
+}
