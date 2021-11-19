@@ -8,8 +8,16 @@ Welcome to the Daily Journal website, here you can post any content anonymously.
 
 ## Input 
 Navigate over to Compose to make an entryPost to the Daily Journal.
+
 ![image](https://user-images.githubusercontent.com/91548582/142620015-525851e4-97c6-49b2-aac2-8e0d7197f15c.png)
 
-Once, in the compose route make an entry as follows
+Once, in the compose page make an entry as follows...Follow up by clicking the 'publish button' which will publish the post to the Home page.  
 
 ![image](https://user-images.githubusercontent.com/91548582/142620441-7095927c-119a-45df-a7f9-a1d64ce5cfe4.png)
+
+## Output 
+
+The example output of your Post will look like...
+
+![image](https://user-images.githubusercontent.com/91548582/142620993-a45d9f8e-605f-41a0-8d79-18c08135946b.png)
+
