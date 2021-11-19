@@ -26,6 +26,11 @@ Additional Functionality has been added to the Daily Journal to provide the user
 
 ![image](https://user-images.githubusercontent.com/91548582/142621352-e4c975ed-131a-4806-b01c-99369d70afb7.png)
 
+## How to run? || Download the zip file to your downloads directory and extract it.
+
+* Open up a terminal/cmd and change to the directory with app.js in it
+* Run app.js locally using nodemon app.js to start the server on localhost:3000.
+
 ## Useful Resources 
 
 * https://ejs.co/
