@@ -21,3 +21,10 @@ The example output of your Post will look like...
 
 ![image](https://user-images.githubusercontent.com/91548582/142620993-a45d9f8e-605f-41a0-8d79-18c08135946b.png)
 
+## How to Remove a Blog Post?
+Additional Functionality has been added to the Daily Journal to provide the user the ability to delete a post using the 'Delete' button. 
+
+![image](https://user-images.githubusercontent.com/91548582/142621352-e4c975ed-131a-4806-b01c-99369d70afb7.png)
+
+
+
