@@ -26,5 +26,10 @@ Additional Functionality has been added to the Daily Journal to provide the user
 
 ![image](https://user-images.githubusercontent.com/91548582/142621352-e4c975ed-131a-4806-b01c-99369d70afb7.png)
 
+## Useful Resources 
 
+* https://ejs.co/
+* https://nodejs.org/en/download/
+* https://www.npmjs.com/package/nodemon 
+* https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 
